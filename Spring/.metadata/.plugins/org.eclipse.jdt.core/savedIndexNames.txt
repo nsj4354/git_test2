@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+C:\Users\soldesk\Desktop\workspace_soldesk\Spring\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1173339078.index
+867446176.index
+1646330550.index
+261728680.index
+523706918.index
+1210192397.index
